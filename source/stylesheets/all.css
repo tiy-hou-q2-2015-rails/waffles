@@ -1,0 +1,9 @@
+
+.welcome {
+  width: 40em;
+  margin: 0 auto;
+  text-align: center;
+}
+img {
+  max-width: 100%;
+}
